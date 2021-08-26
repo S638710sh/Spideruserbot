@@ -1,4 +1,4 @@
-# CatUserbot
+# Spideruserbot
 A simple Telegram userbot based on Telethon .
 [![catuserbot logo](https://telegra.ph/file/5fe7a595eb22e33d3cf88.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatuserbot)
@@ -16,7 +16,7 @@ A simple Telegram userbot based on Telethon .
 
 A simple Telegram userbot based on Telethon .
 
-## How to deploy catuserbot
+## How to deploy Spideruserbot
 ### Self host
 
 [![Deploy To Heroku](https://telegra.ph/file/451475d33595ae7575556.jpg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatpack)
