@@ -10,8 +10,7 @@ A simple Telegram userbot based on Telethon .
 [![GitHub issues](https://img.shields.io/github/issues/Jisan09/catuserbot?&style=flat-square&logo=github)](https://github.com/Jisan09/catuserbot/issues)
 [![PR Open](https://img.shields.io/github/issues-pr/Jisan09/catuserbot?&style=flat-square&logo=github)](https://github.com/Jisan09/catuserbot/pulls)
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/Jisan09/catuserbot?&style=flat-square&logo=github)](https://github.com/Jisan09/catuserbot/pulls?q=is:closed)
-[![GitHub contributors](https://img.shields.io/github/contributors/sandy1709/catuserbot?&style=flat-square&logo=github)](https://GitHub.com/sandy1709/catuserbot/graphs/contributors/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Jisan09/catuserbot?&style=flat-square&logo=github)](https://github.com/Jisan09/catuserbot/graphs/commit-activity)
+
 
 
 
