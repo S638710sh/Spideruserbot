@@ -20,7 +20,7 @@ A simple Telegram userbot based on Telethon .
 ## How to deploy catuserbot
 ### Self host
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatpack)
+[![Deploy To Heroku](https://telegra.ph/file/451475d33595ae7575556.jpg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FJisan09%2Fcatpack)
 
   <details>
     <summary>Steps to deploy on Heroku !! </summary>
@@ -34,9 +34,7 @@ A simple Telegram userbot based on Telethon .
 
   </details>
   
-## Support
-   <a href="https://t.me/catuserbot17"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/catuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
@@ -49,7 +47,7 @@ A simple Telegram userbot based on Telethon .
 ```
               YOU ARE FOREWARNED
 Your Telegram account may get banned.   
-Catuserbot or we are not responsible for your account, 
+Spideruserbot or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
